@@ -1,0 +1,37 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  background-color: aliceblue;
+}
+
+.hidden {
+  display: none;
+}
+
+#spring-text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100vw;
+  height: 75vh;
+}
+h1 {
+  font-family: "Koulen", sans-serif;
+}
+
+.logo {
+  width: 100px;
+  height: 120px;
+  align-items: center;
+}
+h3 {
+  text-decoration: none;
+  font-family: "Koulen", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(95, 15, 224);
+}
